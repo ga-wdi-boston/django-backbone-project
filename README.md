@@ -19,7 +19,7 @@ fun thing to hack on for an afternoon!
 -   **Use Django** to build an API.
 -   **Create an API using at least 2 related models**, user and books.
 -   Include **all major CRUD functions** in a **RESTful API** for the book
--   model.
+    model.
 -   **Consume your own API** by making a client with router.js
 -   **Not** have any obvious user facing errors.
 -   Layout and style your front-end with **clean and well-formatted CSS**.

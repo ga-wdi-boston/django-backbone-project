@@ -11,21 +11,21 @@ server similiar to the [library-api](https://github.com/ga-wdi-boston/library-ap
 using the [django-api](https://github.com/ga-wdi-boston/django-api) that you did
 yesterday as a template. And you will use
 [router.js](https://github.com/ga-wdi-boston/router.js) as a template for your
-client app.
+client app. This project is not a requirment to pass the course, it's just a
+fun thing to hack on for an afternoon!
 
 ## Technical Requirements
-
-Your project must:
 
 -   **Use Django** to build an API.
 -   **Create an API using at least 2 related models**, user and books.
 -   Include **all major CRUD functions** in a **RESTful API** for the book
 -   model.
 -   **Consume your own API** by making a client with router.js
--   **Use authentication in your API** to restrict access to appropriate users.
--   Layout and style your front-end with **clean and well-formatted CSS**.
--   **Deploy your application online** so it's publicly accessible.
 -   **Not** have any obvious user facing errors.
+-   Layout and style your front-end with **clean and well-formatted CSS**.
+-   **(OPTIONAL) Use authentication in your API** to restrict access to
+    appropriate users.
+-   **(OPTIONAL) Deploy your application online** so it's publicly accessible.
 
 ## Getting Started
 
